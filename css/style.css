@@ -94,4 +94,18 @@ header h4 {
     padding: 3px;
     -webkit-transition: all 0.3s ease-out;
   }
+  #bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: -95%;
+    /* height: 100vh; */
+    z-index: 0;
+    background-repeat: no-repeat;
+    background-image: url(../img2/50.jpg);
+    background-size: cover;
+    /* -webkit-filter: blur(4px); */
+  }
+  
 }
