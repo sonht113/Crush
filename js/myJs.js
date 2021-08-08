@@ -95,8 +95,6 @@ $(document).ready(function () {
       title: textConfig.text7,
       width: 900,
       padding: "3em",
-      imageHeight: "60%",
-      imageWidth: "70%",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
@@ -116,8 +114,6 @@ $(document).ready(function () {
           title: textConfig.text78,
           width: 900,
           padding: "3em",
-          imageHeight: "50%",
-          imageWidth: "60%",
           background: '#fff url("img/iput-bg.jpg")',
           backdrop: `
                         rgba(0,0,123,0.4)
@@ -137,8 +133,6 @@ $(document).ready(function () {
               text: textConfig.text11,
               width: 900,
               padding: "3em",
-              imageHeight: "50%",
-              imageWidth: "60%",
               background: '#fff url("img/iput-bg.jpg")',
               backdrop: `
                             rgba(0,0,123,0.4)
